@@ -4,12 +4,15 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Mário Eduardo
+- Matricula: 915751
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Tratando o console do navegador](Tratamento1.png)
+![Tratando o console do navegador](Tratamento2.png)
+![Tratando o console do navegador](Tratamento3.png)
+![Tratando o console do navegador](Tratamento4.png)
 
 
 
